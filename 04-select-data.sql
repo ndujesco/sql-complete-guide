@@ -1,2 +1,2 @@
 -- SELECT * FROM employers;
-SELECT * FROM conversation;
+SELECT * FROM conversations;
